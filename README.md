@@ -163,3 +163,5 @@ Feel free to open an issue for any improvements or bugs.
 
 This project is for educational & awareness purposes only.
 You may modify and use it freely.
+
+live streaming---https://dermadetect.netlify.app/  
